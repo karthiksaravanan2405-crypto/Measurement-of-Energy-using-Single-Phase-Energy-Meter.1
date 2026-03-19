@@ -48,7 +48,7 @@ Enter the no. of times Green LED blinks in 1min(Meter Counter):
 
 ## Output Waveform
 
-
+  
 
 
 ## Result
